@@ -1,7 +1,16 @@
 # hello class
 
-def a()
+def a():
     pass
 
-def b()
+def b():
+    pass
+
+def c():
+    pass
+
+def d():
+    pass
+
+def e():
     pass
